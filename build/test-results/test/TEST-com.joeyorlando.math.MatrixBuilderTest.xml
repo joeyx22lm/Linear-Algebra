@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.joeyorlando.math.MatrixBuilderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-10-29T21:06:03" hostname="JoeyMBP.jaela.orlandowest.io" time="0.016">
+  <properties/>
+  <testcase name="test3x3MatrixSize" classname="com.joeyorlando.math.MatrixBuilderTest" time="0.002"/>
+  <testcase name="testRandomMatrixSize" classname="com.joeyorlando.math.MatrixBuilderTest" time="0.013"/>
+  <system-out><![CDATA[testRandomMatrixSize(78)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
